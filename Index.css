@@ -1,0 +1,28 @@
+.wrapper{
+    border: 2px solid black;
+}
+.first {
+  max-height: 270px;
+  overflow: hidden;
+}
+.first img {
+  max-height: initial;
+}
+
+.second {
+  max-height: 270px;
+  overflow: hidden;
+}
+.second img {
+  margin-top: -400px;
+}
+.third{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.third img{
+  height: 500px;
+  height: 300px;
+}
