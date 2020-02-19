@@ -1,5 +1,6 @@
 .wrapper{
     border: 2px solid black;
+    width:1280px;
 }
 .first {
   max-height: 270px;
